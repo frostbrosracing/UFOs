@@ -23,6 +23,15 @@ By following the steps listed below a user can enter the search criteria for UFO
 3.  Next, type in the state according to the example.  California was used in the example by typing in `ca`.
 
 ![Slide_3.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide3.PNG)
+
+4.  Once you type in the city, you can see the results further filtered as shown below.  The city of `el cajon` was used in this example.
+
+![Slide_4.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide4.PNG)
+
+5.  Finally, by typing in the shape `formation`, you can see that a single sighting is the result of all five filters.
+
+![Slide_5.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide5.PNG)
+
 ## Summary of the Analysis
  
 These mild temperatures are favorable for a business focused on the enjoyment of outside activity in ideal weather conditions.  In addition to the temperature data that was collected for this analysis, two additional queries could be written to go along with this analysis.
