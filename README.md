@@ -10,14 +10,19 @@ This was in order to evaluate the viability of a business plan for a surfing and
 - Languages:  JavaScript, HTML
 
 ## Results of the Webpage
-The image below shows the summary statistics for the months of June and December on the island between the dates of June 1, 2010 and June 30, 2017.  For this time period, a total of **3,217** readings were collected across the 9 weather stations.
+By following the steps listed below a user can enter the search criteria for UFO sightings.  
 
-1. The average temperature as seen below for the month of June was *74.9°F* and the average temperature for the month of December was *71°F*. 
-2. The minimum recorded temperature was *56°F* (during December).
-3. The maximum recorded temperature was *85°F* (during June). 
+1.  The search parameters must be typed according to the examples in the placeholder fields of the `Filter Search` box.
 
-![Temperature_chart.png](https://github.com/frostbrosracing/surfs_up/blob/main/Temperature_chart.png)
+![Slide_1.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide1.PNG)
 
+2.  Begin by typing in the date according to the example.  The date of `1/1/2010` was used in the example.  Because all the sightings in the `data.js` file are located in the United States, "us" was also entered as the default search country.
+
+![Slide_2.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide2.PNG)
+
+3.  Next, type in the state according to the example.  California was used in the example by typing in `ca`.
+
+![Slide_3.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide3.PNG)
 ## Summary of the Analysis
  
 These mild temperatures are favorable for a business focused on the enjoyment of outside activity in ideal weather conditions.  In addition to the temperature data that was collected for this analysis, two additional queries could be written to go along with this analysis.
