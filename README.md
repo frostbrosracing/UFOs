@@ -2,7 +2,6 @@
 
 ## Project Overview of the UFO Tracker
 #### The goal of this project was to create a webpage using HTML and JavaScript that allows users to search for UFO sightings based on multiple search criteria.
-This was in order to evaluate the viability of a business plan for a surfing and ice cream shop on the island.  Investors were interested in the weather findings to ensure that the business would be ideally located for optimal weather conditions.
 
 #### Resources
 - Data Source:  static/js/data.js
@@ -32,13 +31,5 @@ By following the steps listed below a user can enter the search criteria for UFO
 
 ![Slide_5.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide5.PNG)
 
-## Summary of the Analysis
- 
-These mild temperatures are favorable for a business focused on the enjoyment of outside activity in ideal weather conditions.  In addition to the temperature data that was collected for this analysis, two additional queries could be written to go along with this analysis.
-
-1. The June precipitation totals could be reported by substituting the temperature column in the query for the ***'prcp'*** column.  
-2. The December precipitation totals could be reported by substituting the temperature column in the query for the ***'prcp'*** column.
-
-A Pandas DataFrame could then be generated from which summary statistics could be reported.  This DataFrame would show the daily totals reported at each of the 9 weather stations.  
-
-![Precipitation_chart.png](https://github.com/frostbrosracing/surfs_up/blob/main/Precipitation_chart.png)
+## Summary
+By creating multiple filter options for the search, the data set can be quickly filtered to the user's desired parameters.  Although this is can be helpful, one drawback to the webpage is that the search criteria need to be typed exactly as they are captured in the `data.js` file that is being filtered.  Results could easily be overlooked if the search isn't conducted according to the examples shown in the placeholder fields in the Filter Box. 
