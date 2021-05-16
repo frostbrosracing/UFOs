@@ -32,4 +32,7 @@ By following the steps listed below a user can enter the search criteria for UFO
 ![Slide_5.PNG](https://github.com/frostbrosracing/UFOs/blob/main/README.md_images/Slide5.PNG)
 
 ## Summary
-By creating multiple filter options for the search, the data set can be quickly filtered to the user's desired parameters.  Although this is can be helpful, one drawback to the webpage is that the search criteria need to be typed exactly as they are captured in the `data.js` file that is being filtered.  Results could easily be overlooked if the search isn't conducted according to the examples shown in the placeholder fields in the Filter Box. 
+By creating multiple filter options for the search, the data set can be quickly searched according to the user's desired parameters.  One drawback to the webpage is that the search criteria must be typed exactly as it is captured in the `data.js` file that is being filtered.  Because of this, results will not be included if the search isn't conducted according to the examples shown in the placeholder fields in the Filter Box. Two additional recommendations for further development that would enhance the user experience on the webpage are listed below:
+
+1.  Expand the dataset to include a wider range of sightings from around the world and for a more comprehensive period of time.
+2.  Create a user form which would allow submissions from webpage visitors to be included in the dataset.
